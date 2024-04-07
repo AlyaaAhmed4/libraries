@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.robot{
+    font-size: 60px;
+    padding: 30px;
+    color:#e31212;
+}
+
+
+
+
+.twitter{
+    background-color:#000000;
+    padding: 50px;
+    font-size: 100px;
+}
+
+
+.google{
+    font-family: Tac One;
+}
